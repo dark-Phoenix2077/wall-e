@@ -1,45 +1,46 @@
-Board,Line,Designator,Qty,Info,Part,Link
-Cam hat,1,"C1, C4, C5, C7, C8, C10",6,-,10uF MLCC 0805 16V+,https://www.lcsc.com/search?q=10uF+0805
-Cam hat,2,C2,1,-,100pF MLCC 0402 NP0/C0G,https://www.lcsc.com/search?q=100pF+0402+C0G
-Cam hat,3,"C3, C6, C9, C11, C12, C13, C14, C15, C16, C17",10,-,100nF MLCC 0402,https://www.lcsc.com/search?q=100nF+0402
-Cam hat,4,D1,1,Green LED,LED 0603,https://www.lcsc.com/search?q=LED+0603+green
-Cam hat,5,D2,1,Red LED,LED 0603,https://www.lcsc.com/search?q=LED+0603+red
-Cam hat,6,D3,1,-,"PRTR5V0U2X,215",https://www.lcsc.com/product-detail/C12333.html
-Cam hat,7,J1,1,USB C,HRO TYPE-C-31-M-12,https://www.lcsc.com/search?q=TYPE-C-31-M-12
-Cam hat,8,J3,1,GPIO,2.54mm 1x9 pin header,https://www.lcsc.com/search?q=pin+header+1x9+2.54mm
-Cam hat,9,J4,1,Mezzanine 2x15 conn (cam),Hirose DF40C-30DS-0.4V,https://www.lcsc.com/search?q=DF40C-30DS-0.4V
-Cam hat,10,"R1, R2",2,-,5.1k resistor 0402,https://www.lcsc.com/search?q=5.1k+0402
-Cam hat,11,R3,1,-,1M resistor 0402,https://www.lcsc.com/search?q=1M+0402+resistor
-Cam hat,12,"R4, R5",2,-,4.7k resistor 0402,https://www.lcsc.com/search?q=4.7k+0402
-Cam hat,13,"R6, R7",2,-,68 ohm resistor 0402,https://www.lcsc.com/search?q=68R+0402+resistor
-Cam hat,14,"R8, R9, R10",3,-,10k resistor 0402,https://www.lcsc.com/search?q=10k+0402
-Cam hat,15,SW1,1,push button,Tactile switch TL3342,https://www.lcsc.com/search?q=TL3342+tactile+switch
-Cam hat,16,"SW2, SW3",2,push button (smaller),Tactile switch B3U-1000P,https://www.lcsc.com/search?q=B3U-1000P
-Cam hat,17,U1,1,-,AMS1117-3.3,https://www.lcsc.com/product-detail/C6186.html
-Cam hat,18,U2,1,-,AMS1117-1.8,https://www.lcsc.com/product-detail/C6185.html
-Cam hat,19,U3,1,-,ESP32-S3,https://jlcpcb.com/partdetail/EspressifSystems-ESP32S3/C2913192
-Cam hat,20,Camera Module,1,-,OV5647 5MP CSI Camera Module,https://www.sunfounder.com/products/ov5647-camera-module
-Cam hat, -, PCBA order, -, +94 usd, -, -
-Motor hat,21,"C1, C2",2,-,22pF MLCC 0402 NP0,https://www.lcsc.com/search?q=22pF+0402+NP0
-Motor hat,22,"C3, C4, C10, C11, C12, C13, C14, C15",8,-,100nF MLCC 0402,https://www.lcsc.com/search?q=100nF+0402
-Motor hat,23,"C5, C8, C9",3,-,10uF MLCC 0805,https://www.lcsc.com/search?q=10uF+0805
-Motor hat,24,"C6, C16, C17",3,-,100uF electrolytic / ceramic 1210,https://www.lcsc.com/search?q=100uF+1210
-Motor hat,25,C7,1,-,220uF electrolytic 1210,https://www.lcsc.com/search?q=220uF+1210
-Motor hat,26,D1,1,-,Schottky diode SMA package,https://www.lcsc.com/search?q=schottky+diode+SMA
-Motor hat,27,J1,1,GPIO,2.54mm 1x4 pin header,https://www.lcsc.com/search?q=pin+header+1x4+2.54mm
-Motor hat,28,J2,1,Motor A,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST
-Motor hat,29,J3,1,Motor B,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST
-Motor hat,30,J4,1,Motor C,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST
-Motor hat,31,J5,1,Batt input,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST
-Motor hat,32,J6,1,ISP,2.54mm 2x3 pin header,https://www.lcsc.com/search?q=pin+header+2x3+2.54mm
-Motor hat,33,L1,1,-,Power inductor 2512,https://www.lcsc.com/search?q=power+inductor+2512
-Motor hat,34,"R1, R2, R3",3,-,10k resistor 0402,https://www.lcsc.com/search?q=10k+0402
-Motor hat,35,U1,1,-,ATMEGA328P-AU,https://www.lcsc.com/product-detail/C14877.html
-Motor hat,36,"U2, U3",2,-,TB6612FNG,https://www.lcsc.com/product-detail/Motor-Driver-ICs_TOSHIBA-TB6612FNG-C-8-EL_C141517.html
-Motor hat,37,U4,1,-,LM2596S-5.0/NOPB,https://www.lcsc.com/product-detail/C116713.html
-Motor hat,38,U5,1,-,LD1117S33TR,https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_STMicroelectronics-LD1117S33TR_C86781.html
-Motor hat,39,Y1,1,16MHz Crystal,X322516MOB4SI 16MHz,https://www.lcsc.com/product-detail/C12668.html
-Motor hat, -, PCBA order, -, +97 usd, -, -
-Other,40,DC 6V Motor,3,-,3V–6V brushed DC toy motor (TT gearmotor),https://www.lcsc.com/search?q=DC+motor+toy
-Other,43,Battery,1,for motors and rest of the system,7.4V 2S LiPo ~1500–2200mAh,https://www.aliexpress.com/item/1005007342294070.html
-Other,44,Spring,4,for suspension,35mm × 10mm steel compression springs,https://www.rays-teksurplus.co.uk/2-x-helical-compression-springs-steel-length-35mm-diameter-10mm-f3-13337-p.asp
+Board,Designator,Qty,Info,Part,Link,Price (per unit)
+Cam hat,"C1, C4, C5, C7, C8, C10",6,-,10uF MLCC 0805 16V+,https://www.lcsc.com/search?q=10uF+0805,$0.0154
+Cam hat,C2,1,-,100pF MLCC 0402 NP0/C0G,https://www.lcsc.com/search?q=100pF+0402+C0G,$0.0008
+Cam hat,"C3, C6, C9, C11, C12, C13, C14, C15, C16, C17",10,-,100nF MLCC 0402,https://www.lcsc.com/search?q=100nF+0402,$0.0009
+Cam hat,D1,1,Green LED,LED 0603,https://www.lcsc.com/search?q=LED+0603+green,$0.0034
+Cam hat,D2,1,Red LED,LED 0603,https://www.lcsc.com/search?q=LED+0603+red,$0.0038
+Cam hat,D3,1,-,"PRTR5V0U2X,215",https://www.lcsc.com/product-detail/C12333.html,$2.2145
+Cam hat,J1,1,USB C,HRO TYPE-C-31-M-12,https://www.lcsc.com/search?q=TYPE-C-31-M-12,$0.1702
+Cam hat,J3,1,GPIO,2.54mm 1x9 pin header,https://www.lcsc.com/search?q=pin+header+1x9+2.54mm,$0.0397
+Cam hat,J4,1,Mezzanine 2x15 conn (cam),Hirose DF40C-30DS-0.4V,https://www.lcsc.com/search?q=DF40C-30DS-0.4V,$0.3630
+Cam hat,"R1, R2",2,-,5.1k resistor 0402,https://www.lcsc.com/search?q=5.1k+0402,$0.0005
+Cam hat,R3,1,-,1M resistor 0402,https://www.lcsc.com/search?q=1M+0402+resistor,$0.0005 
+Cam hat,"R4, R5",2,-,4.7k resistor 0402,https://www.lcsc.com/search?q=4.7k+0402,$0.0005 
+Cam hat,"R6, R7",2,-,68 ohm resistor 0402,https://www.lcsc.com/search?q=68R+0402+resistor,$0.0005 
+Cam hat,"R8, R9, R10",3,-,10k resistor 0402,https://www.lcsc.com/search?q=10k+0402,$0.0005 
+Cam hat,SW1,1,push button,Tactile switch TL3342,https://www.lcsc.com/search?q=TL3342+tactile+switch,$0.7361
+Cam hat,"SW2, SW3",2,push button (smaller),Tactile switch B3U-1000P,https://www.lcsc.com/search?q=B3U-1000P,$0.0773
+Cam hat,U1,1,-,AMS1117-3.3,https://www.lcsc.com/product-detail/C6186.html,$0.2139
+Cam hat,U2,1,-,AMS1117-1.8,https://www.lcsc.com/product-detail/C6185.html,$0.2339
+Cam hat,U3,1,-,ESP32-S3,https://jlcpcb.com/partdetail/EspressifSystems-ESP32S3/C2913192,$3.0345
+Cam hat,Camera Module,1,-,OV5647 5MP CSI Camera Module,https://www.sunfounder.com/products/ov5647-camera-module,"$10.99
+"
+Cam hat,PCBA order,-,,-,-,112 USD total (including parts)
+Motor hat,"C1, C2",2,-,22pF MLCC 0402 NP0,https://www.lcsc.com/search?q=22pF+0402+NP0,$0.0012
+Motor hat,"C3, C4, C10, C11, C12, C13, C14, C15",8,-,100nF MLCC 0402,https://www.lcsc.com/search?q=100nF+0402,$0.0009
+Motor hat,"C5, C8, C9",3,-,10uF MLCC 0805,https://www.lcsc.com/search?q=10uF+0805,$0.0154
+Motor hat,"C6, C16, C17",3,-,100uF electrolytic / ceramic 1210,https://www.lcsc.com/search?q=100uF+1210,$0.1770
+Motor hat,C7,1,-,220uF electrolytic 1210,https://www.lcsc.com/search?q=220uF+1210,$0.5903
+Motor hat,D1,1,-,Schottky diode SMA package,https://www.lcsc.com/search?q=schottky+diode+SMA,$0.0109
+Motor hat,J1,1,GPIO,2.54mm 1x4 pin header,https://www.lcsc.com/search?q=pin+header+1x4+2.54mm,$0.0201
+Motor hat,J2,1,Motor A,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST,$0.0522
+Motor hat,J3,1,Motor B,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST,$0.0522
+Motor hat,J4,1,Motor C,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST,$0.0522
+Motor hat,J5,1,Batt input,JST EH 2-pin vertical,https://www.lcsc.com/search?q=B2B-EH-A+JST,$0.0522
+Motor hat,J6,1,ISP,2.54mm 2x3 pin header,https://www.lcsc.com/search?q=pin+header+2x3+2.54mm,$0.0307
+Motor hat,L1,1,-,Power inductor 2512,https://www.lcsc.com/search?q=power+inductor+2512,$0.0533
+Motor hat,"R1, R2, R3",3,-,10k resistor 0402,https://www.lcsc.com/search?q=10k+0402,$0.0005
+Motor hat,U1,1,-,ATMEGA328P-AU,https://www.lcsc.com/product-detail/C14877.html,$2.6408
+Motor hat,"U2, U3",2,-,TB6612FNG,https://www.lcsc.com/product-detail/Motor-Driver-ICs_TOSHIBA-TB6612FNG-C-8-EL_C141517.html,$1.1114
+Motor hat,U4,1,-,LM2596S-5.0/NOPB,https://www.lcsc.com/product-detail/C116713.html,$1.3616
+Motor hat,U5,1,-,LD1117S33TR,https://lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_STMicroelectronics-LD1117S33TR_C86781.html,$0.1783
+Motor hat,Y1,1,16MHz Crystal,X322516MOB4SI 16MHz,https://www.lcsc.com/product-detail/C12668.html,$0.0752
+Motor hat,PCBA order,-,,-,-,97 USD total (including parts)
+Other,DC 6V Motor,3,-,3V–6V brushed DC toy motor (TT gearmotor),https://ar.aliexpress.com/item/1005005959011446.html?spm=a2g0o.productlist.main.7.73c2ulkHulkHO5&algo_pvid=05d53e40-ab97-44d8-b716-1ed0722b67fc&algo_exp_id=05d53e40-ab97-44d8-b716-1ed0722b67fc-6&pdp_ext_f=%7B%22order%22%3A%22176%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.69%210.99%21%21%211.69%210.99%21%402140ec5d17774693198556229e6c21%2112000053063004609%21sea%21AE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aafbf3e63%3Bm03_new_user%3A-29895%3BpisId%3A5000000204469934&curPageLogUid=mhEIOERclBAs&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005959011446%7C_p_origin_prod%3A,$0.99
+Other,Battery,1,for motors and rest of the system,7.4V 2S LiPo ~1500–2200mAh,https://ar.aliexpress.com/item/1005010067844747.html?spm=a2g0o.productlist.main.21.32d7UWS6UWS6me&algo_pvid=e2e8af81-e9f4-44a1-995b-2a1569e4b1c7&algo_exp_id=e2e8af81-e9f4-44a1-995b-2a1569e4b1c7-20&pdp_ext_f=%7B%22order%22%3A%2248%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2112.72%215.34%21%21%2112.72%215.34%21%40212a70c117774694778223967e6828%2112000051022063387%21sea%21AE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aafbf3e63%3Bm03_new_user%3A-29895&curPageLogUid=bqrtZ9YQ4Xe4&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010067844747%7C_p_origin_prod%3A,$10.36
+Other,Spring,4,for suspension,35mm × 10mm steel compression springs,https://ar.aliexpress.com/item/1005005488967572.html?spm=a2g0o.productlist.main.4.1708BOzIBOzIzg&aem_p4p_detail=202604290634051676779037736050002799697&algo_pvid=abf48e43-5afa-4cd1-9cfd-62f5390c19a6&algo_exp_id=abf48e43-5afa-4cd1-9cfd-62f5390c19a6-3&pdp_ext_f=%7B%22order%22%3A%22729%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.36%210.99%21%21%2122.84%216.73%21%40212a6e2917774696451058240e0d8f%2112000033282272588%21sea%21AE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aafbf3e63%3Bm03_new_user%3A-29895%3BpisId%3A5000000205015037&curPageLogUid=TogT2m8wGbtU&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005488967572%7C_p_origin_prod%3A&search_p4p_id=202604290634051676779037736050002799697_1,$0.99 (lot of 20)

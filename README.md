@@ -3,7 +3,8 @@
 # wall-e
 a custom smart rover with vision-assisted autonomous navigation and object tracking, built around a Raspberry Pi 3B+ and two fully custom PCB HATs.
 
-<img width="982" height="712" alt="Screenshot 2026-04-29 at 7 15 56 pm" src="https://github.com/user-attachments/assets/2c925080-6ccb-48b7-9752-665c4f2c911b" />
+<img width="982" height="673" alt="Screenshot 2026-04-30 at 5 22 58 pm" src="https://github.com/user-attachments/assets/4a05c01c-2ff7-4a7e-84db-362729ac894c" />
+
 
 # Why I built this
 I built this to push myself towards more advanced PCBs and more complex automated systems/ I wanted to try making a fun toy that could also teach me a lot about PCB design and CAD - this being some of my more complex CAD work, especially for the suspension.
@@ -23,7 +24,8 @@ The vision PCB - a board with an esp32 and a pi camera, as well as usb c and gpi
 
 The cad - houses all of it, has a 2 point suspension thingy (idk the proper term):
 
-<img width="982" height="712" alt="Screenshot 2026-04-29 at 7 19 20 pm" src="https://github.com/user-attachments/assets/254be609-c58d-4cc3-b72a-a2960c265183" />
+<img width="982" height="673" alt="Screenshot 2026-04-30 at 5 23 22 pm" src="https://github.com/user-attachments/assets/bd6d88ea-c74b-48f8-a7bc-50f9143e4f84" />
+
 
 Code - currently two test scripts for colour tracking and line following, will start with those and might expand after I get them working - untested on hardware
 

@@ -27,6 +27,13 @@ The cad - houses all of it, has a 2 point suspension thingy (idk the proper term
 <img width="982" height="673" alt="Screenshot 2026-04-30 at 5 23 22 pm" src="https://github.com/user-attachments/assets/bd6d88ea-c74b-48f8-a7bc-50f9143e4f84" />
 
 
+how the PCBs fit into my design:
+
+<img width="615" height="832" alt="Screenshot 2026-06-02 at 9 37 49 pm" src="https://github.com/user-attachments/assets/c052e46a-4e8f-4291-8f3e-69f724096e1b" />
+
+<img width="615" height="832" alt="Screenshot 2026-06-02 at 9 38 32 pm" src="https://github.com/user-attachments/assets/03c85fbc-b594-43c2-8ccf-3f6be810654e" />
+
+
 Code - currently two test scripts for colour tracking and line following, will start with those and might expand after I get them working - untested on hardware
 
 # BOM

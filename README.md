@@ -31,7 +31,8 @@ how the PCBs fit into my design:
 
 <img width="615" height="832" alt="Screenshot 2026-06-02 at 9 37 49 pm" src="https://github.com/user-attachments/assets/c052e46a-4e8f-4291-8f3e-69f724096e1b" />
 
-<img width="615" height="832" alt="Screenshot 2026-06-02 at 9 38 32 pm" src="https://github.com/user-attachments/assets/03c85fbc-b594-43c2-8ccf-3f6be810654e" />
+<img width="615" height="832" alt="Screenshot 2026-06-02 at 10 52 42 pm" src="https://github.com/user-attachments/assets/3e282860-f22b-4d1f-8541-d157d0d92812" />
+
 
 
 Code - currently two test scripts for colour tracking and line following, will start with those and might expand after I get them working - untested on hardware
